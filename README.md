@@ -3,10 +3,10 @@ This Jupyter Notebook implements a deep learning model for classifying electroni
 # Key Features
 - Dataset: Uses a custom e-waste dataset with 10 categories (Battery, Keyboard, Microwave, Mobile, Mouse, PCB, Player, Printer, Television, Washing Machine)
   
--Model Architecture: Implements transfer learning with EfficientNetV2B0 as the base model
+- Model Architecture: Implements transfer learning with EfficientNetV2B0 as the base model
 
--Data Visualization: Includes exploratory data analysis with sample image visualization
+- Data Visualization: Includes exploratory data analysis with sample image visualization
 
--Model Evaluation: Provides classification reports and confusion matrices for performance assessment
+- Model Evaluation: Provides classification reports and confusion matrices for performance assessment
 
--Deployment: Includes Gradio interface for model deployment and real-time classification
+- Deployment: Includes Gradio interface for model deployment and real-time classification
